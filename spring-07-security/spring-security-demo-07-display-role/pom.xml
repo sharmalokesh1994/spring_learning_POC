@@ -12,7 +12,7 @@
 	<properties>
 	
 		<!-- check the springSecurity is compatible with SpringFramwork -->
-		<springframework.version>5.0.2.RELEASE</springframework.version>
+		<springframework.version>5.3.18</springframework.version>
 
 		<springsecurity.version>5.0.0.RELEASE</springsecurity.version>
 
